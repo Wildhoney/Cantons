@@ -1,0 +1,26 @@
+{
+  "name": "cantons",
+  "version": "0.1.0",
+  "description": "A beautiful collection of HTML web components for everyday use.",
+  "main": "src/collection.js",
+  "scripts": {
+    "test": "taskfile test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wildhoney/Cantons.git"
+  },
+  "keywords": [
+    "components",
+    "suite",
+    "collection",
+    "elements",
+    "html"
+  ],
+  "author": "Adam Timberlake <adam.timberlake@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wildhoney/Cantons/issues"
+  },
+  "homepage": "https://github.com/Wildhoney/Cantons#readme"
+}
